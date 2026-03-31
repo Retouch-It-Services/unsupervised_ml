@@ -1,0 +1,21 @@
+# Core libraries for data handling and NLP
+pandas
+numpy
+
+# Natural Language Processing
+nltk
+wordcloud
+
+# Text feature extraction & similarity
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Optionally, if you use warnings filter or other utilities:
+warnings  # Built-in, so not always required
+
+# [Optional additions if used in your notebook:]
+# seaborn
+# pillow
+# scipy
